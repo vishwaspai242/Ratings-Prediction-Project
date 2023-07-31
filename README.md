@@ -1,4 +1,4 @@
-# Ratings-Prediction-Project-----Flip-Robo
+# Ratings-Prediction-Project
 
 ### Problem Statement:
 
